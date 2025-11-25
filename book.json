@@ -1,0 +1,8 @@
+{
+    "title": "Jason's Book",
+    "description": "用 GitBook 制作的第一本電子書！",
+    "isbn": "978-3-16-148410-0",
+    "language": "zh-hans",
+    "direction": "ltr",
+    "plugins": ["toggle-chapters"]
+}
